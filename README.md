@@ -61,7 +61,6 @@ dytto-marketing/
 ## 🧠 CORE PHILOSOPHY
 
 ### **BEHAVIORAL MARKETING APPROACH**
-Following Rory Sutherland's behavioral economics principles:
 - **Psychology First**: Understand why people buy before what they buy
 - **Counterintuitive Insights**: Challenge conventional wisdom
 - **Context Over Content**: Meaning matters more than information
